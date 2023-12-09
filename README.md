@@ -1,39 +1,39 @@
 # Smart TV App
 
-Una aplicación de interfaz gráfica de usuario (GUI) en Python para simular una interfaz de Smart TV.
+A Python graphical user interface (GUI) application to simulate a Smart TV interface.
 
-## Requisitos
+## Requirements
 
 - Python 3.x
-- Módulos: tkinter, vlc, os
+- Modules: tkinter, vlc, os
 
-## Instrucciones de Uso
+## Instructions for Use
 
-1. Clona el repositorio o descarga el código fuente.
-2. Instala las dependencias.
-3. Configura tu sistema operativo para que la aplicación `smart_tv_app.py` se abra automáticamente al inicio de la ejecución.
+1. Clone the repository or download the source code.
+2. Install the dependencies.
+3. Configure your operating system so that the `smart_tv_app.py` application opens automatically at startup.
 
-## Características
+## Features
 
-- **Modo de pantalla completa:** La aplicación se ejecuta en modo de pantalla completa para una experiencia de usuario envolvente.
-- **Botones de Acceso:** Accede a servicios como Netflix, YouTube, Google, y reproduce contenido multimedia desde una unidad USB o con VLC.
-- **Control de Cierre:** Se ha añadido manejo de eventos para prevenir cierres inesperados y detener la reproducción antes de salir.
+- **Full Screen Mode:** The application runs in full screen mode for an immersive user experience.
+- **Access Buttons:** Access services such as Netflix, YouTube, Google, and play media content from a USB drive or with VLC.
+- **Shutdown Control:** Event handling has been added to prevent unexpected shutdowns and stop playback before exiting.
 
-## Personalización
+## Customization
 
-- Se personalizó la lista de botones y sus funciones en el código fuente.
-- Se ajustó el estilo a los botones.
+- Customized the list of buttons and their functions in the source code.
+- Styling of buttons was adjusted.
 
-## Notas
+## Notes
 
-- Este código utiliza la biblioteca VLC para la reproducción multimedia. Asegúrate de tener VLC instalado en tu sistema.
+- This code uses the VLC library for media playback. Make sure you have VLC installed on your system.
 
-## Autores
+## Authors
 
-González Cuellar Arturo
+Gonzalez Cuellar Arturo
 
 Páez López Didier Marcelo
 
-## Licencia
+## License
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for more details.
