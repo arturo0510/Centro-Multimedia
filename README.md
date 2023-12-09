@@ -11,7 +11,7 @@ A Python graphical user interface (GUI) application to simulate a Smart TV inter
 
 1. Clone the repository or download the source code.
 2. Install the dependencies.
-3. Configure your operating system so that the `smart_tv_app.py` application opens automatically at startup.
+3. Configure your operating system so that the `codigo multimedia.py` application opens automatically at startup.
 
 ## Features
 
